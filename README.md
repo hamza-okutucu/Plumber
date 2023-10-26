@@ -1,6 +1,8 @@
 # Le jeu Plumber
 
-![Plumber](https://github.com/hamza-okutucu/Plumber/assets/148505345/73c940ac-63a9-4383-bfc7-778ef7549d32)
+<p align="center">
+  <img src="https://github.com/hamza-okutucu/Plumber/assets/148505345/73c940ac-63a9-4383-bfc7-778ef7549d32" alt="Plumber">
+</p>
 
 <p style="text-align: justify;">
 Le jeu Plumber se joue sur un damier rectangulaire de taille quelconque. Sur la bordure du plateau sont disposées des sources d'eau de différentes couleurs. Le joueur dispose d'une collection de tuyaux de différentes sortes, qu'il peut librement placer sur une case vide de manière à connecter certaines des cases au bord de celle-ci. Le but du jeu est de placer tous les tuyaux de la réserve sur le plateau de manière à ce que chaque source d'eau soit connectée via une suite de composantes de tuyaux non vide à au moins une source de même couleur et à aucune de couleur différente, et qu'aucune composante de tuyau connectée à au moins une source ne soit aussi connectée à un espace vide.
